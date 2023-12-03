@@ -12,6 +12,7 @@
     <packaging>pom</packaging>
 
     <name>guice-quickstart-bom</name>
+    <url>https://github.com/drbubbletea/guice-quickstart-bom</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
