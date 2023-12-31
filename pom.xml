@@ -14,6 +14,13 @@
     <name>guice-quickstart-bom</name>
     <url>https://github.com/drbubbletea/guice-quickstart-bom</url>
 
+    <licenses>
+        <license>
+            <name>MIT No Attribution</name>
+            <comments>Copy of the license provided in the 'LICENSE' file</comments>
+        </license>
+    </licenses>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
